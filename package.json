@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/CyberDemon2001/React.git)"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Vaibhav Tyagi",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
